@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277103136944",
+    "project_id": "geolocationapp-dca3e",
+    "storage_bucket": "geolocationapp-dca3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277103136944:android:d85c497d8a3bf24e24ab75",
+        "android_client_info": {
+          "package_name": "com.google.geolocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd20AATyvJxxiQOoTMGvZIgmdwjsZ0IX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
